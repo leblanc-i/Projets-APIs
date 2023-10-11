@@ -24,3 +24,7 @@ body {
 .app:hover {
   transform: scale(1.01);
 }
+img {
+  margin-bottom: -12px;
+  border-radius: 50%;
+}
