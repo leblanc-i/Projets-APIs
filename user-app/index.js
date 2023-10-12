@@ -23,7 +23,7 @@ const userDisplay = async () => {
         return newDate;
     }
 
-    // Fonction pour calculer le nombre de jours
+    // Fonction pour calculer le nombre de jours entre la date d'inscription et la date d'aujourd'hui
     const dayCalc = (date) => {
         let today = new Date();
         let todayTimestamp = Date.parse(today);
