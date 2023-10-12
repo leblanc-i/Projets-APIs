@@ -67,3 +67,7 @@ img {
 li > ul > li {
   text-align: left;
 }
+h1 {
+  color: #16d9e7;
+  margin: auto;
+}
